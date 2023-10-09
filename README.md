@@ -11,7 +11,7 @@
 3. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 4. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
 * Langkah-langkah Praktikum
-* Persiapan membuat dokumen HTML dengan nama file lab3_list.html seperti berikut.
+* Persiapan membuat dokumen HTML dengan nama file ```lab3_list.html``` seperti berikut.
 ```python
 <!DOCTYPE html>
 <html lang="en">
@@ -71,7 +71,7 @@
 ## Hasil Output
 ![gambar 1](tugas3/tugas1.png)
 ## Membuat Tabel
-* Buat file baru dengan nama lab3_tabel.html seperti berikut.
+* Buat file baru dengan nama ```lab3_tabel.html``` seperti berikut.
 ```python
 !DOCTYPE html>
 <html lang="en">
@@ -154,7 +154,7 @@
 ## Hasil Output
 ![gambar 1](tugas3/tugas2.png)
 ## Membuat Form
-* Buat file baru dengan nama lab3_form.html seperti berikut.
+* Buat file baru dengan nama ```lab3_form.html``` seperti berikut.
 ```python
 <!DOCTYPE html>
 <html lang="en">
@@ -210,7 +210,7 @@
 ```
 ## Hasil Output
 ![gambar 1](tugas3/tugas3.png)
-## Tugas menampilkan dropdown menu dan listbox dengan multiple selection.
+## Tugas menampilkan ```dropdown menu dan listbox``` dengan multiple selection.
 ```python
 <!DOCTYPE html>
 <html>
